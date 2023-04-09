@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eugenPtr
 - 👀 I’m interested in building the Web3
-- 🌱 I’m currently learning Smart Contract Programming
-- 💞️ I’m looking to collaborate on building resilient (internet) communities and other sorts of crypto projects
+- 🌱 I’m currently building governance facilitation tools @SenateLabs
+- 💞️ I’m looking to collaborate on open source projects around distributed systems, especially blockchain primitives
 - 📫 How to reach me @EugenPtr on Twitter
 
 <!---
