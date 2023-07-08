@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @eugenPtr
-- 👀 I’m interested in building the Web3
-- 🌱 I’m currently building governance facilitation tools @SenateLabs
-- 💞️ I’m looking to collaborate on open source projects around distributed systems, especially blockchain primitives
-- 📫 How to reach me @EugenPtr on Twitter
+- 👀 I’m a blockchain/web developer with a community-oriented mindset
+- 📫 How to reach me @EugenPtr on Twitter or https://www.linkedin.com/in/eugen-patru-3002b195/
 
 <!---
 eugenPtr/eugenPtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
